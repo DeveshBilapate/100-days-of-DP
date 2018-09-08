@@ -11,4 +11,5 @@ I will be solving questions of dynamic programming for next 100 days to myself c
    Reference: https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
 5. Problem link: http://codeforces.com/contest/474/problem/D   <br />
    Reference: http://codeforces.com/blog/entry/14136
-   
+6. Problem link: http://codeforces.com/problemset/problem/466/C   <br />
+   Reference: http://codeforces.com/problemset/status
