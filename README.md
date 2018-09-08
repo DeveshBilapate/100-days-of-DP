@@ -7,3 +7,6 @@ I will be solving questions of dynamic programming for next 100 days to myself c
    Reference: http://www.algorithmist.com/index.php/SPOJ_COINS
 3. Problem link: https://www.spoj.com/problems/TRIKA/   <br />
    Reference: http://code.cloudkaksha.org/spoj/spoj-trika-solution
+4. Problem link: https://www.spoj.com/problems/ELIS/   <br />
+   Reference: https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+5. 
