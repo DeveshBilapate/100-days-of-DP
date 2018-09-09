@@ -13,3 +13,6 @@ I will be solving questions of dynamic programming for next 100 days to myself c
    Reference: http://codeforces.com/blog/entry/14136
 6. Problem link: http://codeforces.com/problemset/problem/466/C   <br />
    Reference: http://codeforces.com/problemset/status
+7. Problem link: https://www.spoj.com/problems/WACHOVIA/   <br />
+   Reference: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+   
