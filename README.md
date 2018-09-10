@@ -15,4 +15,7 @@ I will be solving questions of dynamic programming for next 100 days to myself c
    Reference: http://codeforces.com/problemset/status
 7. Problem link: https://www.spoj.com/problems/WACHOVIA/   <br />
    Reference: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+8. Problem link: https://www.spoj.com/problems/CHOCOLA/   <br />
+   Reference: https://abitofcs.blogspot.com/2014/09/a-bit-of-greedy-spoj-chocola.html
+   
    
