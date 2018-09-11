@@ -20,4 +20,6 @@ I will be solving questions of dynamic programming for next 100 days to make mys
 9. Problem link: https://www.spoj.com/problems/TRIP/  (tle) <br />
    Reference: https://www.geeksforgeeks.org/printing-longest-common-subsequence-set-2-printing/
               https://www.geeksforgeeks.org/print-longest-common-sub-sequences-lexicographical-order/
-   
+10. Problem link: https://www.spoj.com/problems/AMR11A/  (tle) <br />
+    Reference: http://code.cloudkaksha.org/spoj/spoj-amr11a-solution
+    
