@@ -28,4 +28,6 @@ I will be solving questions of dynamic programming for next 100 days to make mys
                https://github.com/AliOsm/CompetitiveProgramming/blob/master/SPOJ/BYTESE2%20-%20The%20Great%20Ball.cpp (with seg tree,to be implemented)
 12. Problem link: https://www.spoj.com/problems/ABA12C/ <br />
     Reference: http://spoj-sus.blogspot.com/2016/03/aba12c.html
-  
+13. Problem link: https://www.spoj.com/problems/DSUBSEQ/ <br />
+    Reference: https://www.quora.com/How-do-I-solve-Distinct-Subsequences-on-SPOJ
+
