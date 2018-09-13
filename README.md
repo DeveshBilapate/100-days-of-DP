@@ -26,4 +26,6 @@ I will be solving questions of dynamic programming for next 100 days to make mys
     Reference: http://codegeeeks.blogspot.com/2014/11/spoj-problem-3921-great-ball-bytese2.html
                https://github.com/SH-anonta/Competitive-Programming-Solutions/blob/master/SPOJ/SPOJ%20BYTESE2%20-%20The%20Great%20Ball%20(without%20segment%20tree).cpp
                https://github.com/AliOsm/CompetitiveProgramming/blob/master/SPOJ/BYTESE2%20-%20The%20Great%20Ball.cpp (with seg tree,to be implemented)
-               
+12. Problem link: https://www.spoj.com/problems/ABA12C/ <br />
+    Reference: http://spoj-sus.blogspot.com/2016/03/aba12c.html
+  
