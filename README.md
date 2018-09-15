@@ -30,4 +30,6 @@ I will be solving questions of dynamic programming for next 100 days to make mys
     Reference: http://spoj-sus.blogspot.com/2016/03/aba12c.html
 13. Problem link: https://www.spoj.com/problems/DSUBSEQ/ <br />
     Reference: https://www.quora.com/How-do-I-solve-Distinct-Subsequences-on-SPOJ
-
+14. Problem link: http://codeforces.com/contest/414/problem/B <br />
+    Reference: http://codeforces.com/blog/entry/11470
+    
