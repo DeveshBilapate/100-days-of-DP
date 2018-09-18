@@ -35,4 +35,5 @@ I will be solving questions of dynamic programming for next 100 days to make mys
 15. Problem link: https://www.spoj.com/problems/ACODE/ <br />
     Reference: http://xoptutorials.com/index.php/2017/01/01/spojacode/
                http://code.cloudkaksha.org/spoj/spoj-acode-solution
-               
+16. Problem link: http://codeforces.com/contest/476/problem/B <br />
+    Reference: http://codeforces.com/blog/entry/14256
