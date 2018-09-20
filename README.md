@@ -37,3 +37,6 @@ I will be solving questions of dynamic programming for next 100 days to make mys
                http://code.cloudkaksha.org/spoj/spoj-acode-solution
 16. Problem link: http://codeforces.com/contest/476/problem/B <br />
     Reference: http://codeforces.com/blog/entry/14256
+17. Problem link: https://www.spoj.com/problems/MBEEWALK/ <br />
+    Reference: https://www.quora.com/How-do-I-solve-the-MBEEWALK-question-on-SPOJ , http://xoptutorials.com/index.php/2017/01/01/spojmbeewalk/
+    
